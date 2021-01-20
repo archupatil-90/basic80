@@ -154,6 +154,9 @@ li:hover{
     font-size: 12px;
     text-transform: capitalize;
 }
+.left nav ul li a:hover{
+    color: #FF9900;
+}
 address{
     font-style: normal;
     padding: 0;
